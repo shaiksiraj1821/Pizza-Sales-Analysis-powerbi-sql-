@@ -9,4 +9,3 @@ Deliverables & Business Impact:
 Crafted an interactive dashboard revealing sales insights for better decision-making.
 Identified high and low-performing pizzas, offering actionable strategies for business enhancement.
 Visualized sales trends to assist in staffing and inventory planning.
-Portfolio-ready project showcasing SQL, Power BI, and data analysis skills for potential employers.
